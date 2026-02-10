@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace OOP
+namespace OOP.Virtual.Override
 {
     internal class car
     {
@@ -10,6 +10,5 @@ namespace OOP
         {
             return 500;
         }
-
     }
 }

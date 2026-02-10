@@ -12,6 +12,5 @@ namespace OOP.Abstraction
         {
             Console.WriteLine($"Бензиновий двигун  запущено! \nПотужність: {HorsePower} (к.с)");
         }
-
     }
 }

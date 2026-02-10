@@ -10,6 +10,5 @@ namespace OOP.Polymorphism
         {
             Console.WriteLine("Подушки безпеки не пошкодженні!");
         }
-
     }
 }
