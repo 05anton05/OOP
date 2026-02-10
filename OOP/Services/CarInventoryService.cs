@@ -45,6 +45,5 @@ namespace OOP.Services
                 Console.WriteLine( "Марка:" + car.Brand + "Модель:" + car.Model + "Вартість:" + car.Price);
             }
         }
-
     }
 }

@@ -6,7 +6,6 @@ namespace OOP.Inheritance
 {
     internal class Dashboard
     {
-
         private int speed;
         private int fuelLevel;
         private int engineTemperature;
@@ -61,8 +60,6 @@ namespace OOP.Inheritance
         {
             Console.WriteLine($"Швидкість: {speed} \nКількість палива: {fuelLevel} \n Тумпература масла в двигуні: {engineTemperature}");
         }
-
-
     }
 }
 

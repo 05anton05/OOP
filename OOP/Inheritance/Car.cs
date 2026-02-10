@@ -20,7 +20,5 @@ namespace OOP
         {
            Console.WriteLine($"\nМодель: {Model} \nКінські сили: {HorsePower} \nМодель^ {Model}");
         }
-
-
     }
 }

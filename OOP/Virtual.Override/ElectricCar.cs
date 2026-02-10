@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace OOP
+namespace OOP.Virtual.Override
 {
     internal class electricCar : car
     {

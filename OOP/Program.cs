@@ -73,8 +73,8 @@ service.AddCar(new Car("Volkswagen ", "Golf V ", 5300));
 
 Console.WriteLine("Автомобілі:");
 service.ShowAll();
-public interface IStopable { void Stop(); }
-public interface ILockable { void Lock(); void Unlock(); }
+
+
 
 
 
